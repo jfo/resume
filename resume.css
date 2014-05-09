@@ -1,4 +1,29 @@
 body {
-  font-family:Open Sans;
+  margin-left: 2em;
+  margin-bottom: 5em;
 }
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: .875em;
+  font-weight: 400;
+}
+
+.date {
+  font-style: italic;
+  margin-top: 2em;
+}
+
 
